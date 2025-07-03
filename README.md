@@ -12,7 +12,7 @@
 
 ## 👋 Hi there! I'm Dinesh Chaudhary D
 
-I'm a Full-Stack developer passionate about solving real-world problems using code. Currently pursuing my B.E. in Computer Science, I enjoy building scalable applications with modern JavaScript technologies and Node.js.
+I'm a Full-Stack developer passionate about solving real-world problems using code. Currently pursuing my B.E. in Computer Science, I enjoy building applications with modern JavaScript technologies and Node.js.
 
 ---
 
