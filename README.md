@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Hi there! I'm Dinesh Chaudhary D
+## 👋 Hi! I'm Dinesh Chaudhary D
 
 I'm a Full-Stack developer passionate about solving real-world problems using code. Graduated with Bachelor of Engineering in Computer Science, I enjoy building applications with modern JavaScript technologies and Node.js.
 
@@ -18,9 +18,9 @@ I'm a Full-Stack developer passionate about solving real-world problems using co
 
 ### 🚀 About Me
 
-- 🎓 Final year CS student at PERI Institute of Technology (8.0 CGPA)
-- 💻 Junior Node.js Backend Developer with full-stack experience
-- 🌱 Learning advanced Node.js & DevOps workflows
+- 🎓 Graduate in Computer Science from PERI Institute of Technology (8.0 CGPA)
+- 💻 Junior Node.js Backend Developer
+- 🌱 Learning Node.js
 - 📦 Published 2 npm packages
 - 🗣️ Fluent in English, Hindi & Tamil
 
