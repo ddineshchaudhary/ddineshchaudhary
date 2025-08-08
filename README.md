@@ -12,7 +12,7 @@
 
 ## 👋 Hi! I'm Dinesh Chaudhary D
 
-I'm a Full-Stack developer passionate about solving real-world problems using code. Graduated with Bachelor of Engineering in Computer Science, I enjoy building applications with modern JavaScript technologies and Node.js.
+I'm a Developer, Passionate about solving real-world problems using code. Graduated with Bachelor of Engineering in Computer Science, I enjoy building web applications.
 
 ---
 
@@ -23,30 +23,6 @@ I'm a Full-Stack developer passionate about solving real-world problems using co
 - 🌱 Learning Node.js
 - 📦 Published 2 npm packages
 - 🗣️ Fluent in English, Hindi & Tamil
-
----
-
-### 🛠️ Tech Stack
-
-| Frontend                                   | Backend                               | Database                              | DevOps & Versioning         | Stack                |
-|--------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------|----------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![MERN](https://img.shields.io/badge/MERN-0088cc?logo=mern&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)   | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |                                          | ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) |                      |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) |                                        |                             |                      |
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |                                        |                                        |         
-
----
-
-### 🔥 Projects
-
-| Project Name            | Description                                                                 | Links |
-|-------------------------|-----------------------------------------------------------------------------|--------|
-| **Restaurant App**      | 🍽️ MERN app with authentication and dynamic food menu                        | [GitHub](https://github.com/ddineshchaudhary/Restaurant-app) |
-| **Weather App**         | ☁️ Real-time weather data fetch using WeatherAPI and Express.js              | [GitHub](https://github.com/ddineshchaudhary/Weather-app) |
-| **CLI Todo App**        | ✅ Command-line task tracker using Commander.js and custom REST APIs         | [GitHub](https://github.com/ddineshchaudhary/CLI-Todo-app) |
-| **WeatherAPI Package**  | 📦 npm package to fetch and display weather info                            | [npm](https://www.npmjs.com/package/@dinesh15/weatherapi) / [GitHub](https://github.com/ddineshchaudhary/Weather-Api-Package) |
-| **Calculator Module**   | ➕➖ npm arithmetic package with CLI and UI interface                         | [npm](https://www.npmjs.com/package/@dinesh15/calculator-module) / [GitHub](https://github.com/ddineshchaudhary/Calculator) |
-| **Chrome Plugin**       | 🌤️ Chrome plugin for displaying current weather                              | [GitHub](https://github.com/ddineshchaudhary/ChromePlugin-WeatherApp) |
 
 ---
 
