@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="20%" alt="Dinesh Coding GIF">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/d-dinesh-chaudhary-5a1ab4239/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Connect on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button">
-  </a>
-</p>
-
----
-
 ## 👋 Hi! I'm Dinesh Chaudhary D
 
 I'm a Developer, Passionate about solving real-world problems using code. Graduated with Bachelor of Engineering in Computer Science, I enjoy building web applications.
