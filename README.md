@@ -7,8 +7,7 @@ I'm a Developer, Passionate about solving real-world problems using code. Gradua
 ### 🚀 About Me
 
 - 🎓 Graduate in Computer Science from PERI Institute of Technology (8.0 CGPA)
-- 💻 Junior Node.js Backend Developer
-- 🌱 Learning Node.js
+- 💻 Junior Web Developer
 - 📦 Published 2 npm packages
 - 🗣️ Fluent in English, Hindi & Tamil
 
@@ -37,12 +36,6 @@ I'm a Developer, Passionate about solving real-world problems using code. Gradua
 
 ---
 
-### 📊 GitHub Stats
-
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddineshchaudhary&show_icons=true&count_private=true&hide_title=true&hide_rank=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddineshchaudhary&layout=compact&theme=radical)
-
----
-
 
 ### 📫 Contact Me
 
@@ -52,7 +45,3 @@ I'm a Developer, Passionate about solving real-world problems using code. Gradua
 | 🔗 LinkedIn  | [linkedin.com/in/d-dinesh-chaudhary-5a1ab4239](https://www.linkedin.com/in/d-dinesh-chaudhary-5a1ab4239/) |
 | 💻 GitHub    | [github.com/ddineshchaudhary](https://github.com/ddineshchaudhary)   |
 | 📦 npm       | [npmjs.com/~dinesh15](https://www.npmjs.com/~dinesh15)                |
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
